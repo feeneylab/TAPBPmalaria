@@ -1,6 +1,7 @@
 # TAPBPmalaria
 Imputed TAPBP expression levels impact the course of malaria in an HLA allotype-dependent manner
 
+
 Stata do files:
 
 Malaria_TAPBP_1_Variables_2021-02-27_git.do Creates all variables necessary for analysis. Creates below .dta file.
@@ -13,6 +14,7 @@ Malaria_TAPBP_3_Analysis_FDR_2021-03-08_git.do Merges primary analysis and batch
 
 BatchPermute_allmodels_TAPBP_2020-06-24_git.do Permutation analysis file.
 
-Stata dta files:
+
+Stata dta file:
 
 Malaria_TAPBP_Variables_2022-02-16_git.dta Study data.
